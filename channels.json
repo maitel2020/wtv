@@ -1,0 +1,50 @@
+[
+	{
+		"id": "1",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV1",
+				"url": [
+					"https://tv.cctv.com/live/cctv1/",
+					"https://www.yangshipin.cn/tv/home?pid=600001859"
+				]
+			}
+		]
+	},
+	{
+		"id": "2",
+		"text": "卫视频道",
+		"children": [
+			{
+				"text": "北京卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002309"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"text": "广东频道",
+		"children": [
+			{
+				"text": "广东卫视",
+				"url": "https://www.gdtv.cn/tvChannelDetail/43"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"text": "动漫剧场",
+		"children": [
+			{
+				"text": "小猪佩奇 第一季",
+				"url": [
+					"https://www.bilibili.com/bangumi/play/ss37587",
+					"https://www.bilibili.com/bangumi/play/ep375714",
+					"https://www.bilibili.com/bangumi/play/ep375715"
+				],
+				"alias":["第一集","第二集","第三集"]
+			}
+		]
+	}
+]
