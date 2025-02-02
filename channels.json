@@ -34,6 +34,16 @@
 	},
 	{
 		"id": "4",
+		"text": "地方频道",
+		"children": [
+			{
+				"text": "深圳都市频道",
+				"url": "https://www.sztv.com.cn/dianshi.shtml?id=7868"
+			}
+		]
+	},
+	{
+		"id": "5",
 		"text": "动漫剧场",
 		"children": [
 			{
@@ -43,7 +53,33 @@
 					"https://www.bilibili.com/bangumi/play/ep375714",
 					"https://www.bilibili.com/bangumi/play/ep375715"
 				],
-				"alias":["第一集","第二集","第三集"]
+				"alias": [
+					"第一集",
+					"第二集",
+					"第三集"
+				]
+			},
+			{
+				"text": "狐狐动画城",
+				"url": "https://live.bilibili.com/30837590?live_from=84001"
+			}
+		]
+	},
+	{
+		"id": "6",
+		"text": "其他直播",
+		"children": [
+			{
+				"text": "哔哩哔哩直播首页",
+				"url": "https://live.bilibili.com/"
+			},
+			{
+				"text": "抖音直播首页",
+				"url": "https://live.douyin.com/"
+			},
+			{
+				"text": "虎牙直播首页",
+				"url": "https://www.huya.com/"
 			}
 		]
 	}
