@@ -34,6 +34,9 @@
 4. 直播视频一定要来自源网站，使用iframe类似嵌套的直播网站，则无法全屏
 5. 暂不开源，不收集任何隐私
 
+#节目单测试地址
+[https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json]
+
 ## 目前问题
 1. 使用uniapp x开发，弹出列表、切换列表会出现卡顿问题，配置越低越明显
 2. 节目列表出现闪烁问题，使用canvas渲染，因为并非一次性渲染全部内容，而是切换一次就重新渲染一次
