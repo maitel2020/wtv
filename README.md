@@ -7,6 +7,10 @@
 4. CCTV_Viewer挺好的，但是不符合操作习惯，而且节目源无法自制
 
 
+# 节目单测试地址
+[https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json]
+
+
 # 界面
 ![主界面](image/1.webp)
 ![节目列表](image/2.webp)
@@ -34,8 +38,7 @@
 4. 直播视频一定要来自源网站，使用iframe类似嵌套的直播网站，则无法全屏
 5. 暂不开源，不收集任何隐私
 
-#节目单测试地址
-[https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json]
+
 
 ## 目前问题
 1. 使用uniapp x开发，弹出列表、切换列表会出现卡顿问题，配置越低越明显
