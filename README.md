@@ -8,8 +8,7 @@
 
 
 # 节目单测试地址
-[https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json]
-
+[https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json](https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json)
 
 # 界面
 ![主界面](image/1.webp)
