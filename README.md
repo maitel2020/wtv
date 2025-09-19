@@ -9,7 +9,7 @@
 
 # 节目单测试地址
 [https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json](https://raw.githubusercontent.com/maitel2020/wtv/refs/heads/main/channels.json)
-# logo测试地址
+# 台标测试地址
 [https://github.com/maitel2020/wtv/raw/refs/heads/main/logo.zip](https://github.com/maitel2020/wtv/raw/refs/heads/main/logo.zip)
 
 
